@@ -14,13 +14,26 @@ Sistema de detección de drones con análisis de audio y video.
 
 ### Paso 2: Conectar el repositorio local con GitHub
 
-Después de crear el repositorio en GitHub, ejecuta estos comandos (reemplaza `TU_USUARIO` con tu nombre de usuario de GitHub):
+El repositorio ya está configurado. Para hacer el push inicial, necesitas autenticarte:
 
+**Opción A: Usar Token de Acceso Personal (Recomendado)**
+
+1. Ve a GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)
+2. Genera un nuevo token con permisos `repo`
+3. Copia el token
+4. Ejecuta:
 ```bash
-git remote add origin https://github.com/TU_USUARIO/adas3.git
-git branch -M main
 git push -u origin main
 ```
+Cuando te pida usuario, ingresa tu usuario de GitHub. Cuando te pida contraseña, pega el token (no tu contraseña de GitHub).
+
+**Opción B: Configurar credenciales guardadas**
+
+```bash
+git config --global credential.helper store
+git push -u origin main
+```
+(Te pedirá usuario y token una vez, luego se guardará)
 
 ### Paso 3: Actualizar el repositorio cuando hagas cambios
 
