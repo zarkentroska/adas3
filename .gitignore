@@ -1,38 +1,17 @@
-# Entornos virtuales de Python
-.venv/
-venv/
-ENV/
-env/
-*.pyc
-__pycache__/
-
-# Archivos de PyInstaller
-build/
-dist/
-*.spec.bak
-
-# Archivos de Python
-*.py[cod]
-*$py.class
-*.so
-.Python
-
-# IDEs
-.vscode/
-.idea/
-*.swp
-*.swo
-*~
-
-# OS
-.DS_Store
-Thumbs.db
-
-# Logs
-*.log
-
 # Archivos temporales
 *.tmp
 *.bak
 *.swp
+*~
 
+# Logs
+*.log
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# No ignorar los ejecutables - queremos subirlos
+# !releases/**/*.exe
+# !releases/**/*.deb
+# !releases/**/*.apk
