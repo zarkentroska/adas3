@@ -17,13 +17,10 @@ Este repositorio contiene los ejecutables compilados del sistema ADAS3 para dife
 ```
 releases/
 ├── server/
-│   ├── windows/    # Ejecutables .exe del servidor
-│   ├── linux/      # Paquetes .deb y otros del servidor
-│   └── android/    # Archivos .apk del servidor
+│   ├── windows/    # Ejecutable .exe del servidor
+│   └── linux/      # Paquete .deb del servidor
 └── client/
-    ├── windows/    # Ejecutables .exe del cliente
-    ├── linux/      # Paquetes .deb y otros del cliente
-    └── android/    # Archivos .apk del cliente
+    └── android/    # Archivo .apk del cliente
 ```
 
 ## Repositorios de Código Fuente

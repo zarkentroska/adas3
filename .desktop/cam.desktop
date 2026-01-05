@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Mi Script Personalizado
-Comment=Ejecuta dos comandos con una pausa
-Type=Application
-Terminal=true
-Exec=/home/zarkentroska/Documentos/.desktop/script.sh
-Icon=utilities-terminal
-Name[es_ES]=ADAS3

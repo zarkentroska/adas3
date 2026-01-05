@@ -11,7 +11,7 @@
 .DS_Store
 Thumbs.db
 
-# No ignorar los ejecutables - queremos subirlos
+# Mantener los ejecutables - queremos subirlos
 # !releases/**/*.exe
 # !releases/**/*.deb
 # !releases/**/*.apk

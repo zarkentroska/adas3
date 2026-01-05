@@ -4,7 +4,6 @@ Ejecutables compilados del servidor ADAS3.
 
 ## Plataformas
 
-- `windows/` - Ejecutables para Windows (.exe)
-- `linux/` - Paquetes para Linux (.deb, .AppImage, etc.)
-- `android/` - Aplicaciones para Android (.apk)
+- `windows/` - Ejecutable para Windows (.exe)
+- `linux/` - Paquete para Linux (.deb)
 
