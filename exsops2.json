@@ -1,0 +1,602 @@
+[
+  {
+    "pregunta": "Si un equipo de CRAV (Compañía de reconocimiento avanzado de la Brigada Paracaidista) realiza una misión de reconocimiento y vigilancia especial. ¿Está participando en una misión de operaciones especiales?",
+    "respuestas": {
+      "a": "Dependerá de si cuelga orgánicamente del SOCC o del componente terrestre.",
+      "b": "Si.",
+      "c": "No.",
+      "d": "Nunca podrá hacer una misión de operaciones especiales por ser considerada unidad convencional."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es un subtipo de SOATU?",
+    "respuestas": {
+      "a": "Unidad Operativa de Operaciones Especiales (SOTU).",
+      "b": "Ala rotatoria (RW)",
+      "c": "Equipo Contra Terrorista (CTT).",
+      "d": "Equipo de Demolición (ED)."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El concepto SERE se refiere a...",
+    "respuestas": {
+      "a": "Todas las anteriores son verdaderas.",
+      "b": "SUPERVIVENCIA, EVASIÓN, RESISTENCIA Y EXFILTRACIÓN.",
+      "c": "SUPERVIVENCIA, EVASIÓN, REINTEGRACIÓN Y EXTRACCIÓN.",
+      "d": "SUPERVIVENCIA, EVASIÓN, RESISTENCIA Y EXTRACCIÓN."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las siglas SOALI pertenecen a:",
+    "respuestas": {
+      "a": "Special operations air-land integration.",
+      "b": "Special operations air-land interdiction.",
+      "c": "Special ordenance air-land integration.",
+      "d": "Todas las anteriores son falsas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En una misión de CSAR",
+    "respuestas": {
+      "a": "Las EF están equipadas pero no adiestradas.",
+      "b": "El personal aislado está equipado pero no adiestrado.",
+      "c": "No se espera una interferencia hostil.",
+      "d": "Tanto las EF como el ISOP están equipados y adiestrados en TTPs CSAR."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Respecto a estructuras de mando y control de Oes:",
+    "respuestas": {
+      "a": "En el primer nivel se encuentra el SOCC.",
+      "b": "EI SOCC es de naturaleza conjunta.",
+      "c": "El SOCC es una estructura permanente.",
+      "d": "A y b son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las siglas de SOCCE se refieren a",
+    "respuestas": {
+      "a": "El Comandante de la FOE organiza este destacamento para sincronizar las operaciones especiales que se realizan aisladamente o en apoyo de otras fuerzas en una determinada área de operaciones.",
+      "b": "Todas las anteriores son falsas.",
+      "c": "Es el grupo de personal que se integra en el Mando Componente Aéreo para coordinar e integrar las operaciones especiales con el resto de las operaciones aéreas.",
+      "d": "Es el grupo de personal que destaca el Comandante de la FOE al Cuartel General del escalón superior, durante la fase de planeamiento de una determinada contingencia, al objeto de facilitar la integración de las capacidades de las fuerzas de Oes y otras fuerzas."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En una operación encubierta...",
+    "respuestas": {
+      "a": "Se ejecutan con especial énfasis en ocultar la identidad u origen de ejecutantes y promotores.",
+      "b": "Se planea de forma convencional pero se ejecuta de forma de forma secreta.",
+      "c": "Se planea y ejecuta aplicando los procedimientos de seguridad de las operaciones habituales.",
+      "d": "Se realiza con especial énfasis en ocultar la operación en sí."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Cuando hablamos de PR podemos decir que...",
+    "respuestas": {
+      "a": "Es una suma entre los esfuerzos diplomáticos y militares.",
+      "b": "Todas las anteriores son falsas.",
+      "c": "Es la suma de esfuerzos civiles, militares y diplomáticos.",
+      "d": "Solo y exclusivamente esfuerzos militares."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "La JSOA",
+    "respuestas": {
+      "a": "La define un Comandante Operacional.",
+      "b": "Es de carácter permanente siempre.",
+      "c": "Todas las anteriores son falsas.",
+      "d": "La define el Comandante Estratégico."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Cuando hablamos de PR oportuno podemos decir que:",
+    "respuestas": {
+      "a": "El personal aislado se aprovecha de la oportunidad de usar ayuda de otros que no se toman normalmente en consideración en el planeamiento de las fuerzas amigas.",
+      "b": "Todas las anteriores son verdaderas.",
+      "c": "Podemos distinguir entre oportuno asistido y no asistido.",
+      "d": "Se lleva a cabo por unidades dedicadas cercanas en el momento que el personal sufre el aislamiento de su unidad."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "En una acción CCA",
+    "respuestas": {
+      "a": "Se requiere del control de un JTAC cualificado y certificado.",
+      "b": "Las aeronaves y la fuerza apoyada pertenecen a diferentes unidades organicas.",
+      "c": "Todas las anteriores son falsas.",
+      "d": "Es un procedimiento friendly centric."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Cuando hablamos de JOA",
+    "respuestas": {
+      "a": "Es el área definida por el Comandante Operacional y asignada a un Mando Componente para conducir sus operaciones.",
+      "b": "Es el área definida por el Comandante Estratégico, dentro del teatro de operaciones, donde un Comandante Operacional planea y ejecuta una operación.",
+      "c": "Todas las anteriores son falsas.",
+      "d": "Es el área definida por el Comandante Operacional, que comprende una zona de terreno y/o mar y su espacio aéreo correspondiente, asignada al Comandante de la FOE para que ejecute operaciones especiales."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En una acción CAS",
+    "respuestas": {
+      "a": "Es un procedimiento nocturno.",
+      "b": "Las aeronaves y la fuerza apoyada pertenecen a diferentes unidades orgánicas.",
+      "c": "Todas las anteriores son falsas.",
+      "d": "Se requiere del control de un JTAC cualificado y certificado."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es el Mando Componente de Operaciones Especiales?",
+    "respuestas": {
+      "a": "ACC.",
+      "b": "MCC.",
+      "c": "SOCC.",
+      "d": "LCC."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "En el nivel C SERE:",
+    "respuestas": {
+      "a": "Es impartido por instructores SERE en una escuela especializada como parte de un paquete teórico y un ejercicio de campo realista.",
+      "b": "Incluye un entorno simulado de cautividad de no menos de 120 horas.",
+      "c": "Los alumnos deben ser condicionados por el combate antes de entrar en el entorno de cautividad simulada.",
+      "d": "La a y la c son verdaderas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Cuál de los siguientes es el Grupo operativo de Operaciones Especiales?",
+    "respuestas": {
+      "a": "SOATU.",
+      "b": "SOTG.",
+      "c": "SOTU.",
+      "d": "SOATG."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Según la definición de \"Operaciones especiales\" podemos afirmar que se ejecutan en...",
+    "respuestas": {
+      "a": "Crisis y conflicto.",
+      "b": "Todas las anteriores son falsas.",
+      "c": "Paz, crisis y conflicto.",
+      "d": "Paz."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuál es la menor unidad de operaciones especiales capaz de llevar a cabo las 3 misiones principales de Oes?",
+    "respuestas": {
+      "a": "Mando Componente de Operaciones Especiales (SOCC).",
+      "b": "Unidad Operativa de Operaciones Especiales (SOTU).",
+      "c": "Grupo Operativo de Operaciones Especiales (SOTG).",
+      "d": "Unidad Operativa Aérea de Operaciones Especiales (SOATU)."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En el nivel A SERE:",
+    "respuestas": {
+      "a": "Es impartido por instructores SERE en una escuela especializada como parte de un paquete teórico y un ejercicio de campo realista.",
+      "b": "Se puede impartir de manera descentralizada a nivel unidad.",
+      "c": "Los alumnos deben ser condicionados por el combate antes de entrar en el entorno de cautividad simulada.",
+      "d": "La a y la c son verdaderas."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las operaciones especiales pueden ser dirigidas contra las fuerzas enemigas mediante",
+    "respuestas": {
+      "a": "... un enfrentamiento dilatado o bien de forma breve...",
+      "b": "... un enfrentamiento directo o bien de forma indirecta",
+      "c": "...... un enfrentamiento simétrico o bien una forma defensiva ...",
+      "d": "...... una forma sorpresiva y una forma decisiva"
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "La comunicaciones de un equipo de Operaciones Especiales...",
+    "respuestas": {
+      "a": "han de ser fiables y seguras en cualquier situación.",
+      "b": "tener capacidad de transmisión de información en tiempo real, garantizando el enlace a gran distancia",
+      "c": "han de ser fiables, con salto de frecuencia y en banda HF",
+      "d": "a) y b) son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Respecto a las características que se atribuyen a las operaciones En el entorno multinacional el SOCC se genera sobre la base del concepto de",
+    "respuestas": {
+      "a": "Nación Red (Mesh Nation).",
+      "b": "Nación Marco (Framework Nation).",
+      "c": "Marco Conjunto (Joint Framework).",
+      "d": "Marco Combinado (Combined Framework)."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El encargado de asegurar que las misiones de medios aéreos propios y asignados quedan reflejadas en la ATO es...",
+    "respuestas": {
+      "a": "SOCOM.",
+      "b": "SOLE.",
+      "c": "SOPLE.",
+      "d": "SOCCE."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En Asistencia Militar podemos distinguir entre",
+    "respuestas": {
+      "a": "Entrenamiento.",
+      "b": "Asesoramiento.",
+      "c": "Adiestramiento.",
+      "d": "La b y la ce son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las Operaciones Especiales...",
+    "respuestas": {
+      "a": "Son operaciones militares desarrolladas por fuerzas especialmente diseñadas, organizadas, adiestradas y equipadas.",
+      "b": "Por su naturaleza, técnicas y peculiaridades, no pueden ser ejecutadas por fuerzas convencionales.",
+      "c": "Para alcanzar objetivos decisivos o de gran valor, en áreas hostiles o sensibles.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los principios de empleo de las Operaciones especiales son:",
+    "respuestas": {
+      "a": "Objetivos de gran valor, decisión de empleo de bajo nivel, estructura de mando adecuada, empleo temprano, acceso a inteligencia, flexibilidad y seguridad.",
+      "b": "Objetivos de gran valor, decisión de empleo de alto nivel, estructura de mando adecuada, empleo temprano, acceso a inteligencia, flexibilidad y seguridad.",
+      "c": "Objetivos de gran valor, decisión de empleo de alto nivel, estructura de mando adecuada, acceso a inteligencia, flexibilidad y seguridad.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las misiones de Operaciones Especiales son:",
+    "respuestas": {
+      "a": "Reconocimiento y Vigilancia Espacial, Acción Directa y Asistencia Militar.",
+      "b": "DA, MA y SR",
+      "c": "AD, MA y PRP",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "El reconocimiento y vigilancia especial,",
+    "respuestas": {
+      "a": "es el único medio fiable de adquisición de inteligencia.",
+      "b": "tiene la desventaja de no poder analizar de forma inmediata lo observado.",
+      "c": "se basa en la observación directa sobre el objetivo.",
+      "d": "todas las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la incorrecta:",
+    "respuestas": {
+      "a": "Las operaciones de recuperación no son acciones directas.",
+      "b": "La acción directa es una acción ofensiva por sorpresa, gran precisión, limitada en alcance y duración.",
+      "c": "Son acciones directas los golpes de mano, asaltos y emboscadas.",
+      "d": "Las acciones directas se ejecutan sobre objetivos de relevancia estratégica, operacional y tácticos decisivos."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Los niveles operacionales y tácticos de planeamiento corresponden a:",
+    "respuestas": {
+      "a": "Operacional al JFC y táctico a los CCs.",
+      "b": "Táctico a los SOTG y al SOCC.",
+      "c": "Comandante de la Fuerza Conjunta el operacional y SOTUs táctico 3 nivel.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Los niveles tácticos de planeamiento son:",
+    "respuestas": {
+      "a": "1 nivel Cmte. Operacional, 2º nível SOTG, 3d nivel SOPLE.",
+      "b": "1 nivel Mando Componente de Oes. 2º nivel SOTG/FOE, 3 nivel SOTUS.",
+      "c": "1 nivel SOCCE, 2º nivel SOATG, 3 nivel SOTUS.",
+      "d": "1 nivel JFC, 2º nivel SOCC, 3 nivel SOTGs."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "¿Qué es un Grupo Operativo de Operaciones Especiales (SOTG)?",
+    "respuestas": {
+      "a": "Es la menor unidad de operaciones especiales capaz de llevar a cabo cometidos de Reconocimiento y Vigilancia Especial, Acción Directa y Asistencia Militar.",
+      "b": "Es el agrupamiento de unidades dotadas de plataformas aéreas (de ala fija o rotatoria) bajo mando único, subordinado al Mando Componente de Operaciones Especiales.",
+      "c": "Es la FOE que se genera para una operación concreta y que comprende una estructura de mando y control, cuenta con al menos dos unidades de operaciones especiales subordinadas y otras unidades que se consideren en apoyo.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es una Unidad Operativa de Operaciones Especiales (SOTU)?",
+    "respuestas": {
+      "a": "Es la FOE que, en el caso más complejo, permite ejercer el mando control de las unidades de operaciones especiales desplegadas en un teatro o zona de operaciones (TO/ZO), subordinadas al Comandante Operacional.",
+      "b": "Es la FOE que se genera para una operación concreta y que comprende una estructura de mando y control, cuenta con al menos dos unidades de operaciones especiales subordinadas y otras unidades que se consideren en apoyo.",
+      "c": "Es la menor unidad de plataformas aéreas de ala fija o rotatoria de operaciones con capacidad para apoyar cometidos de las unidades de operaciones especiales.",
+      "d": "Es la menor unidad de operaciones especiales capaz de llevar a cabo cometidos de Reconocimiento y Vigilancia Especial, Acción Directa y Asistencia Militar"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "EI SOCC...",
+    "respuestas": {
+      "a": "Es la FOE que, en el caso más complejo, permite ejercer el mando control de las unidades de operaciones especiales desplegadas en un teatro o zona de operaciones (TO/ZO), subordinadas al Comandante Operacional.",
+      "b": "es de naturaleza conjunta y, en el entorno multinacional, habitualmente combinado",
+      "c": "contará con más de un Grupo Operativo de Operaciones Especiales (SOTG) y en ocasiones con un Grupo Operativo Aéreo de Operaciones Especiales (SOATG)",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "¿Dónde se integran los destacamentos de enlace?",
+    "respuestas": {
+      "a": "SOPLE en JFC, SOCCE en LCC y MCC, SOLE en ACC.",
+      "b": "SOPLE en SOCC, SOCCE en LCC y MCC, SOLE en ACC.",
+      "c": "SOPLE en SOATG, SOCCE en SOATU, SOLE en ACC.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué son las Operaciones Aéreas Especiales (SAO)?",
+    "respuestas": {
+      "a": "Son Operaciones Especiales ejecutadas desde bases aéreas.",
+      "b": "aquellas operaciones militares desarrolladas por unidades aéreas especialmente diseñadas, organizadas, adiestradas y equipadas",
+      "c": "operaciones militares para, desde el aire y/o en apoyo al empleo de las capacidades aéreas, alcanzar objetivos decisivos o de alto valor, en áreas hostiles o sensibles, mediante la utilización de tácticas, técnicas, procedimientos y modos de empleo diferentes de los utilizados por fuerzas convencionales.",
+      "d": "La b. y c. son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "La misión principal de las SAO es...",
+    "respuestas": {
+      "a": "Ejecutar misiones de reconocimiento aéreo.",
+      "b": "Apoyar a las misiones de operaciones especiales de DA, SR y MA.",
+      "c": "Proporcionar apoyo aéreo cercano (CAS).",
+      "d": "Ejecutar recuperación de personal (PR) en apoyo a las operaciones especiales."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En DA y SR, las SAO...",
+    "respuestas": {
+      "a": "Proporcionan principalmente transporte aéreo (AT) especializado, específicamente en las inserciones y extracciones, empleando TTPs únicos.",
+      "b": "Se encargan de señalizar y reconocer los objetivos.",
+      "c": "Sólo actúan en caso de asalto aéreo.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las actividades adicionales de las SAO son:",
+    "respuestas": {
+      "a": "SAOLIN, FARP, ISR, CAS/CCA, PR",
+      "b": "SOALI, RAF, ISR, CAS, PR",
+      "c": "SOALI, FARP, ISR, CAS/CCA, PR",
+      "d": "SOALI, FARP, ATC, CAS, PR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Qué es un FARP?",
+    "respuestas": {
+      "a": "Puesto avanzado de recuperación de personal.",
+      "b": "Fuerza aérea de repostaje avanzado.",
+      "c": "Punto avanzado de armado y repostaje.",
+      "d": "Punto de repostaje en vuelo."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿En que se diferencian el CAS del CCA?",
+    "respuestas": {
+      "a": "EL CAS requiere de un FAC/JTAC cualificado y certificado, el CCA no.",
+      "b": "El CCA lo ejecutan helicópteros, el CAS no.",
+      "c": "El CAS requiere de una integración con los fuegos y movimientos de la fuerza apoyada, el CCA no.",
+      "d": "La a y b. son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la correcta (sobre SOATU).",
+    "respuestas": {
+      "a": "SOATU es la menor entidad de fuerzas de Operaciones Aéreas Especiales con capacidad para ejecutar este tipo de operaciones o apoyar a los cometidos del resto de unidades de Operaciones Especiales.",
+      "b": "Hay diferentes tipos de SOATU: SOATU-fixed wing, SOATU-rotary wing, SOATU-UAV.",
+      "c": "Todas las anteriores.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "PERSONNEL RECOVERY:",
+    "respuestas": {
+      "a": "Es una capacidad exclusiva de operaciones especiales.",
+      "b": "Solo engloba los esfuerzos militares.",
+      "c": "Es la suma total de esfuerzos diplomáticos, militares y civiles para conseguir la recuperación y reintegración del personal aislado.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "¿Cuáles son las 5 tareas fundamentales de ejecución en PR?",
+    "respuestas": {
+      "a": "Informar, Localizar, Apoyar, Recuperar y Reintegrar.",
+      "b": "Contacto, Autenticación, Apoyo, Movimiento y Extracción.",
+      "c": "Informar, Autenticar, Apoyar, Recuperar y Reintegrar.",
+      "d": "Contacto, Localización, Apoyo, Movimiento y Extracción."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Señale la correcta (sobre niveles SERE).",
+    "respuestas": {
+      "a": "El nivel SERE A es el nivel inicial y es teórico.",
+      "b": "El nivel SERE B es el nivel intermedio y es teórico-práctico.",
+      "c": "El nivel SERE C es el nivel avanzado, teórico-práctico, con un ejercicio táctico de aplicación de 72 horas en el que se incluye un entorno de cautiverio simulado de no menos de 12 horas.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "El RMC...",
+    "respuestas": {
+      "a": "Coordina actividades PR ayudando al OSC y fuerzas de recuperación en sus tareas primarias y dirigiendo la misión.",
+      "b": "Dirige las operaciones en las proximidades del ISOP hasta la llegada de las fuerzas de recuperación.",
+      "c": "Será nombrado por el apropiado nivel de mando a través del JPRC/PRCC.",
+      "d": "Neutralizará cualquier amenaza en ruta y en la zona de recuperación. Puede incluir medios de ala fija y/o rotatoria."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Un Equipo de Control de Combate....",
+    "respuestas": {
+      "a": "Está formado por personal con la aptitud militar necesaria.",
+      "b": "Está organizado, entrenado y equipado para localizar, identificar y señalizar D/Z, E/Z, L/Z y HL/Z.",
+      "c": "Elabora previsiones meteorológicas.",
+      "d": "Todas las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Entre los cometidos de un Equipo de Control de Combate están:",
+    "respuestas": {
+      "a": "Localizar, evaluar, identificar y señalizar D/Z, V/Z, LZ, HL/Z.",
+      "b": "Establecer las comunicaciones T/A y T/T con su red de mando y con las demás unidades pertenecientes a la operación.",
+      "c": "Todas las anteriores.",
+      "d": "Ninguna es correcta."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Como norma general, un CCT puede estar compuesto por:",
+    "respuestas": {
+      "a": "Controlador de combate terrestre, operador de telecomunicaciones, operador láser, observador meteorológico/sondeos, señaladores, señaleros, seguridad.",
+      "b": "Controlador de combate terrestre, operador de telecomunicaciones, operador de ayudas a la navegación, observador meteorológico/sondeos, señaleros, seguridad.",
+      "c": "Controlador de combate terrestre, operador de telecomunicaciones, operador de ayudas a la navegación, señaladores, observador meteorológico/sondeos, señaleros, señaladores, seguridad.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "El CAS...",
+    "respuestas": {
+      "a": "Es la actividad aérea contra objetivos hostiles que se encuentran proximos a fuerza amigas.",
+      "b": "Requiere la integración detallada de cada misión aérea con el fuego y movimiento de las fuerzas apoyadas.",
+      "c": "Es necesaria la participación de un JTAC cualificado y certificado.",
+      "d": "Todas son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Señale la correcta (sobre TACP/JTAC).",
+    "respuestas": {
+      "a": "EI TACP es el elemento de enlace aéreo con las unidades terrestres a nivel batallón.",
+      "b": "EI LO/A-JTAC autorizará cada ataque de forma individual.",
+      "c": "La responsabilidad principal del JTAC es el control de ataque terminal.",
+      "d": "La a y la c) son correctas"
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "Las funciones de un TACP son:",
+    "respuestas": {
+      "a": "Control de ataque terminal, gestión del espacio aéreo, proporcionar coordenadas y datum, autoridad de lanzamiento, evitar fratricidio y daño colateral.",
+      "b": "Control de ataque terminal, gestión de las comunicaciones, proporcionar coordenadas y datum, evitar fratricidio y daño colateral.",
+      "c": "Control de ataque terminal, gestión del espacio aéreo, proporcionar amenazas a las aeronaves, autoridad de lanzamiento, evitar fratricidio y daño colateral.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "¿Qué son las Operaciones Aéreas Especiales (SAO)?",
+    "respuestas": {
+      "a": "Son Operaciones Especiales ejecutadas desde bases aéreas.",
+      "b": "aquellas operaciones militares desarrolladas por unidades aéreas especialmente diseñadas, organizadas, adiestradas y equipadas",
+      "c": "operaciones militares para, desde el aire y/o en apoyo al empleo de las capacidades aéreas, alcanzar objetivos decisivos o de alto valor, en áreas hostiles o sensibles, mediante la utilización de tácticas, técnicas, procedimientos y modos de empleo diferentes de los utilizados por fuerzas convencionales.",
+      "d": "La b. y c. son correctas."
+    },
+    "correcta": "d"
+  },
+  {
+    "pregunta": "La misión principal de las SAO es...",
+    "respuestas": {
+      "a": "Ejecutar misiones de reconocimiento aéreo.",
+      "b": "Apoyar a las misiones de operaciones especiales de DA, SR y MA.",
+      "c": "Proporcionar apoyo aéreo cercano (CAS).",
+      "d": "Ejecutar recuperación de personal (PR) en apoyo a las operaciones especiales."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "En DA y SR, las SAO...",
+    "respuestas": {
+      "a": "Proporcionan principalmente transporte aéreo (AT) especializado, específicamente en las inserciones y extracciones, empleando TTPs únicos.",
+      "b": "Se encargan de señalizar y reconocer los objetivos.",
+      "c": "Sólo actúan en caso de asalto aéreo.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "a"
+  },
+  {
+    "pregunta": "Las actividades adicionales de las SAO son:",
+    "respuestas": {
+      "a": "SAOLIN, FARP, ISR, CAS/CCA, PR",
+      "b": "SOALI, RAF, ISR, CAS, PR",
+      "c": "SOALI, FARP, ISR, CAS/CCA, PR",
+      "d": "SOALI, FARP, ATC, CAS, PR"
+    },
+    "correcta": "c"
+  },
+  {
+    "pregunta": "Señale la incorrecta.",
+    "respuestas": {
+      "a": "SOALI es la combinación de la aviación y las capacidades terrestres para lograr objetivos marcados por el SOCC.",
+      "b": "Las SOALI son llevadas a cabo sólo por individuos especialmente entrenados, equipados y organizados para integrar, sincronizar y controlar los efectos del poder aéreo con las misiones de operaciones especiales.",
+      "c": "Las capacidades SOALI incluyen CCT, FAC/JTAC, PR.",
+      "d": "Los especialistas de PR de operaciones especiales, suelen formar parte de la fuerza de recuperación de ala rotatoria o basculante aunque podrían formar parte también una misión PR de ala no rotatoria."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Las opciones de PR son:",
+    "respuestas": {
+      "a": "Inmediato, alerta y deliberado.",
+      "b": "Diplomáticas, militares y civiles.",
+      "c": "Políticas, militares y civiles.",
+      "d": "Ninguna de las anteriores."
+    },
+    "correcta": "b"
+  },
+  {
+    "pregunta": "Se conoce como CSAR a...",
+    "respuestas": {
+      "a": "Localización y recuperación de personal aislado en situación de peligro, en un ambiente donde NO se espera interferencia hostil.",
+      "b": "Recuperación de personal aislado de una situación que SI se puede esperar interferencia hostil y en la que el personal aislado o las fuerzas de extracción (EF) o ninguna de las dos, han sido entrenados y equipados en TTPs CSAR.",
+      "c": "Son acciones directas (DA) para localizar, identificar, recuperar y retornar al personal aislado, restos humanos, equipamiento sensible o artículos críticos para la seguridad nacional, en áreas sensibles, negadas u hostiles.",
+      "d": "Aplicación de tácticas, técnicas y procedimientos específicos por fuerzas dedicadas a la recuperación de personal aislado, entrenado y equipado para recibir este apoyo, en una situación que SI se puede esperar interferencia hostil."
+    },
+    "correcta": "d"
+  }
+]
